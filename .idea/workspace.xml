@@ -4,49 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a3b1a12-1adf-4fbf-940d-1892fda1213c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/yoll/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hometasks/BrowserMethods1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hometasks/M2DynamicTables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hometasks/M2InteractionWithSwagLabInventory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hometasks/M2Interactions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hometasks/M2MagentoSignInFlow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hometasks/M2VerifyingTabVisualFeedback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hometasks/M2WebTables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hometasks/M3Drodowns2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hometasks/M3Dropdowns3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hometasks/M3Drowpdowns1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hometasks/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hometasks/task2TourRegistr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module1/BrowserMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module1/GetPageInformation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/BestBuyPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/Locators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/MultipleElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/PracticeAccessibilityWebPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/SouceDemoPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/VerifyElementAttributes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/VerifyIfPresent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/guru99Practise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/verifyIfDispayedAndEnabled.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module3/DemoQAPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module3/MultiDropDownPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module3/PracticeKeys.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module3/SelectDropDownPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module3/SelectDropDownPractice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module3/SelectDropDownPractice3.java" afterDir="false" />
-    </list>
+    <list default="true" id="3a3b1a12-1adf-4fbf-940d-1892fda1213c" name="Changes" comment="Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="sabis &lt;sabina.aghayeva.f@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -65,7 +34,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/sabis/selenium/Projects/mavon-selenium-testng-git/src/test/java/module1",
+    "last_opened_file_path": "C:/Users/sabis/selenium/Projects/mavon-selenium-testng-git/src/main/java/module3",
     "onboarding.tips.debug.path": "C:/Users/sabis/selenium/Projects/mavon-selenium-testng-git/src/main/java/io/yoll/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
@@ -74,10 +43,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sabis\selenium\Projects\mavon-selenium-testng-git\src\main\java\module3" />
+      <recent name="C:\Users\sabis\selenium\Projects\mavon-selenium-testng-git\src\main\java\module2" />
       <recent name="C:\Users\sabis\selenium\Projects\mavon-selenium-testng-git\src\test\java\module1" />
       <recent name="C:\Users\sabis\selenium\Projects\mavon-selenium-testng-git\src\test\java\hometasks" />
       <recent name="C:\Users\sabis\selenium\Projects\mavon-selenium-testng-git\src\test\java\module3" />
-      <recent name="C:\Users\sabis\selenium\Projects\mavon-selenium-testng-git\src\test\java\module2" />
     </key>
   </component>
   <component name="RunManager">
@@ -116,6 +86,36 @@
       <option name="presentableId" value="Default" />
       <updated>1712276645825</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1712452871179</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712452871180</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1712453258990</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712453258990</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1712453906378</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712453906378</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init commit" />
   </component>
 </project>
