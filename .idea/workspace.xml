@@ -4,11 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a3b1a12-1adf-4fbf-940d-1892fda1213c" name="Changes" comment="Initial commit" />
+    <list default="true" id="3a3b1a12-1adf-4fbf-940d-1892fda1213c" name="Changes" comment="Init commit">
+      <change afterPath="$PROJECT_DIR$/src/test/java/module3/TestPr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -30,6 +40,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.M3Drodowns2.executor": "Run",
+    "Application.TestPr.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -50,7 +61,7 @@
       <recent name="C:\Users\sabis\selenium\Projects\mavon-selenium-testng-git\src\test\java\module3" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TestPr">
     <configuration name="M3Drodowns2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hometasks.M3Drodowns2" />
       <module name="mavon-selenium-testng-git" />
@@ -64,8 +75,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestPr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="module3.TestPr" />
+      <module name="mavon-selenium-testng-git" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="module3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestPr" />
         <item itemvalue="Application.M3Drodowns2" />
       </list>
     </recent_temporary>
@@ -110,7 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712453906378</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Init commit">
+      <option name="closed" value="true" />
+      <created>1712454724208</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712454724208</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
